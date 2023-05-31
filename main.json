@@ -1,3 +1,21 @@
 {
-    "userId": "rirani"
+    "personal": [
+        {
+            "Name": "suriya"
+        }
+    ],
+    "social": [
+        {
+            "email": " suriyaofficiel@gmail.com",
+            "linkedIn": "suriyaoficiel",
+            "github": "github suriya"
+        }
+    ],
+    "education ": [
+        {
+            "btech ": " bharath university ",
+            "12th": "higherschool",
+            "10th": "metric school"
+        }
+    ]
 }
